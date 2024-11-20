@@ -58,3 +58,7 @@ Latihan ini bertujuan untuk memahami bagaimana sistem operasi real-time (RTOS) m
 
 ## Hasil Percobaan
 
+
+https://github.com/user-attachments/assets/bdc883be-1eb5-43b1-bcfd-dbb7928ac774
+
+
